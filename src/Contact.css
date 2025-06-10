@@ -1,0 +1,15 @@
+.contact {
+  background:linear-gradient(180deg,#000000dd,rgba(222, 59, 0, 0.703));
+  }
+  .links {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+a .image{
+    font-size: 5px;
+
+  }
+  
