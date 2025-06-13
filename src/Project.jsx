@@ -7,25 +7,25 @@ const Projects = () => {
       title: "Weather App",
       id : "weather",
       style:{backgroundImage:"url(public/weather.png)"},
-      link: "https://akash0077-tech.github.io/Weather/",
+      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/weather.png",
     },
     {
       title: "Stopwatch",
       id:"timer",
        style:{backgroundImage:"url(public/timer.png)"},
-      link: "https://akash0077-tech.github.io/Timer/",
+      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/timer.png",
     },
     {
      title : "Spotify Web Design",
      id: "spotify",
      style:{backgroundImage:"url(public/spotify.png)"},
-     link : "https://github.com/akashbhatta/Portfolio/blob/main/public/spotify.png"
+     link : "https://github.com/akashbhatta/Portfolio/blob/main/public/spotify.png",
     },
     {
       title: "Calculator",
       id:"calculator",
       style:{backgroundImage:"url(public/calculator.png)"},
-      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/calculator.png"
+      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/calculator.png",
     },
     {
         

@@ -5,10 +5,10 @@ const Contact = () => {
     <section id="contact" className="contact">
       <h2>Contact </h2>
      <div className="links">
-    <a href = "https://www.facebook.com/akash.bhatta.3766"> 
+    <a href = "https://github.com/akashbhatta/Portfolio/blob/main/public/facebook.png"> 
     <img src="public/facebook.png" className="image"/>
     </a>  <br/>
-    <a href = "https://www.instagram.com/_akashbhatta/">
+    <a href = "https://github.com/akashbhatta/Portfolio/blob/main/public/instagram.png">
     
     <img src = "public/instagram.png" className="image"/>
     </a>
