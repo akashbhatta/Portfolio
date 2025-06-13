@@ -19,20 +19,20 @@ const Projects = () => {
      title : "Spotify Web Design",
      id: "spotify",
      style:{backgroundImage:"url(public/spotify.png)"},
-     link : "https://akash0077-tech.github.io/Spotify_WebDesign/"
+     link : "https://github.com/akashbhatta/Portfolio/blob/main/public/spotify.png"
     },
     {
       title: "Calculator",
       id:"calculator",
       style:{backgroundImage:"url(public/calculator.png)"},
-      link: "https://akash0077-tech.github.io/Calculator/"
+      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/calculator.png"
     },
     {
         
       title: "Scissor-Paper-Rock",
       id:"RPS",
       style:{backgroundImage:"url(public/RPS.png)"},
-      link: "https://akash0077-tech.github.io/Rock_Paper_Scissor/"
+      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/RPS.png"
       
 
     },
