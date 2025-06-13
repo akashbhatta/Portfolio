@@ -6,11 +6,10 @@ const Contact = () => {
       <h2>Contact </h2>
      <div className="links">
     <a href = "https://github.com/akashbhatta/Portfolio/blob/main/public/facebook.png"> 
-    <img src="public/facebook.png" className="image"/>
+    <img src="/facebook.png" className="image"/>
     </a>  <br/>
     <a href = "https://github.com/akashbhatta/Portfolio/blob/main/public/instagram.png">
-    
-    <img src = "public/instagram.png" className="image"/>
+    <img src = "/instagram.png" className="image"/>
     </a>
       </div>
      
