@@ -11,7 +11,7 @@ const Hero = () => {
         <p>Web Developer | Passionate about building creative web experiences.</p>
       </div>
       <div className="intro-image">
-        <img src="https://github.com/akashbhatta/Portfolio/blob/main/public/intro.JPG" alt="Akash Bhatta" />
+       <img src="/intro.JPG" alt="Akash Bhatta" />
       </div>
     </section>
   );
