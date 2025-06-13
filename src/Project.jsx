@@ -6,32 +6,32 @@ const Projects = () => {
     {
       title: "Weather App",
       id : "weather",
-      style:{backgroundImage:"url(public/weather.png)"},
+      style:{backgroundImage:"url(/weather.png)"},
       link: "https://github.com/akashbhatta/Portfolio/blob/main/public/weather.png",
     },
     {
       title: "Stopwatch",
       id:"timer",
-       style:{backgroundImage:"url(public/timer.png)"},
+       style:{backgroundImage:"url(/timer.png)"},
       link: "https://github.com/akashbhatta/Portfolio/blob/main/public/timer.png",
     },
     {
      title : "Spotify Web Design",
      id: "spotify",
-     style:{backgroundImage:"url(public/spotify.png)"},
+     style:{backgroundImage:"url(/spotify.png)"},
      link : "https://github.com/akashbhatta/Portfolio/blob/main/public/spotify.png",
     },
     {
       title: "Calculator",
       id:"calculator",
-      style:{backgroundImage:"url(public/calculator.png)"},
+      style:{backgroundImage:"url(/calculator.png)"},
       link: "https://github.com/akashbhatta/Portfolio/blob/main/public/calculator.png",
     },
     {
         
       title: "Scissor-Paper-Rock",
       id:"RPS",
-      style:{backgroundImage:"url(public/RPS.png)"},
+      style:{backgroundImage:"url(/RPS.png)"},
       link: "https://github.com/akashbhatta/Portfolio/blob/main/public/RPS.png"
       
 
