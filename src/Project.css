@@ -1,26 +1,9 @@
-/* .projects {
-    background-color: #333;
-  }
-  
-  .project-list {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 50px;
-    margin-top: 20px;
-  }
-  
-  .project-card {
-    background: #413f3f;
-    padding: 20px;
-    border-radius: 8px;
-    width: 200px;
-    cursor: pointer;
-  }
-   */
-   .projects {
+
+   #project {
+    height:100vh;
     padding: 50px 20px;
-    background:linear-gradient(180deg,#000000d2,rgba(226, 64, 5, 0.703));
+    background-color: #212020;
+    /* background:linear-gradient(180deg,#000000d2,rgba(226, 64, 5, 0.703)); */
     text-align: center;
   }
   
@@ -32,19 +15,22 @@
   .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
+    gap: 30px;
     max-width: 1000px;
     margin: 0 auto;
   }
   
   .project-card {
-    /* background:linear-gradient(180deg,hsla(108, 39%, 23%, 0.73),rgba(246, 114, 66, 0.703)); */
-   height:120px;
-    background: rgba(255, 255, 255, 0.819);
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.);
-    transition: transform 0.3s ease;
+
+  height: 250px; 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  position: relative;
+  color: white; 
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
   }
   
   .project-card:hover {
@@ -54,20 +40,22 @@
   .project-card h3 {
     font-size: 1.2rem;
     margin-bottom: 10px;
+    color:rgb(128, 0, 0);
+    font-weight: 900;
   }
   
   .project-card p {
     font-size: 0.95rem;
-    color: #444;
+    color: #300c0c;
     margin-bottom: 15px;
   }
   
   .project-card a {
     color: white;
-    background-color: #0077ff;
+    background-color: rgba(109, 105, 105, 0.934);
     padding: 8px 15px;
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
+    
   }
-  

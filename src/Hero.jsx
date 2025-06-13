@@ -4,22 +4,20 @@ import "./Hero.css";
 
 const Hero = () => {
   return (
-    <section className="hero">
-      <h1>Hi, I'm Akash Bhatta 👋🏿</h1>
-      <button
-        className="showBtn"
-        onClick={() => {
-          const section = document.getElementById("project");
-          if (section) {
-            section.scrollIntoView({ behavior: "smooth" });
-          }
-        }}
-      >
-        View My Work
-      </button>
+   
+    <section id="home" className="intro-container">
+      <div className="intro-content">
+        <h1>Akash Bhatta</h1>
+        <p>Web Developer | Passionate about building creative web experiences.</p>
+      </div>
+      <div className="intro-image">
+        <img src="public/intro.JPG" alt="Akash Bhatta" />
+      </div>
     </section>
   );
 };
 
 export default Hero;
+
+ 
 

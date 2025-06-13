@@ -1,5 +1,6 @@
 .contact {
-  background:linear-gradient(180deg,#000000dd,rgba(222, 59, 0, 0.703));
+ background-color: #212020;
+ color: aliceblue;
   }
   .links {
     display:flex;
@@ -9,7 +10,18 @@
   }
 
 a .image{
-    font-size: 5px;
-
+    font-size: 20px;
+    background-color: #403f3f80;
+    cursor: pointer;
+    
   }
-  
+
+
+
+ .image{
+  filter: invert(100%);
+  width: 50px;
+ }
+ .image:hover{
+  filter: invert(120%) brightness(3.2);
+ }

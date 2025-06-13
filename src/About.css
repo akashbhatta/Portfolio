@@ -1,4 +1,11 @@
 .about {
-  background:linear-gradient(180deg,rgba(203, 63, 12, 0.703),#000000d2);
+  background-color: #212020;
+  height:100vh;
   }
-  
+  h2{
+    font-size: 35px;
+  }
+  p{
+    font-size: 25px;
+    opacity: 0.6;
+  }

@@ -1,5 +1,5 @@
 .skills {
-  background:linear-gradient(180deg,rgba(226, 64, 5, 0.703),#000000e2);
+background-color: #212020;
     padding: 50px 20px;
     text-align: center;
     color: white;
@@ -7,7 +7,7 @@
   
   .skills h2 {
     margin-bottom: 30px;
-    font-size: 28px;
+    font-size: 30px;
   }
   
   .skill-bars {

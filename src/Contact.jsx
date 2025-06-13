@@ -3,7 +3,7 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <section id="contact" className="contact">
-      <h2>Contact Me</h2>
+      <h2>Contact </h2>
      <div className="links">
     <a href = "https://www.facebook.com/akash.bhatta.3766"> 
     <img src="public/facebook.png" className="image"/>

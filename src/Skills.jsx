@@ -35,7 +35,7 @@ const Skills = () => {
 
   return (
     <section id="skills" className="skills" ref={skillsRef}>
-      <h2>My Skills</h2>
+      <h2>Skills</h2>
       <div className="skill-bars">
         {skills.map((skill, index) => (
           <div key={index} className="skill">
