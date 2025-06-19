@@ -6,33 +6,33 @@ const Projects = () => {
     {
       title: "Weather App",
       id : "weather",
+      link: "https://akashbhatta.github.io/Weather/",
       style:{backgroundImage:"url(/weather.png)"},
-      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/weather.png",
     },
     {
       title: "Stopwatch",
       id:"timer",
        style:{backgroundImage:"url(/timer.png)"},
-      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/timer.png",
+      link: "https://akashbhatta.github.io/Timer/",
     },
     {
      title : "Spotify Web Design",
      id: "spotify",
      style:{backgroundImage:"url(/spotify.png)"},
-     link : "https://github.com/akashbhatta/Portfolio/blob/main/public/spotify.png",
+     link : "https://akashbhatta.github.io/Spotify_WebDesign/",
     },
     {
       title: "Calculator",
       id:"calculator",
       style:{backgroundImage:"url(/calculator.png)"},
-      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/calculator.png",
+      link: "https://akashbhatta.github.io/Calculator/",
     },
     {
         
       title: "Scissor-Paper-Rock",
       id:"RPS",
       style:{backgroundImage:"url(/RPS.png)"},
-      link: "https://github.com/akashbhatta/Portfolio/blob/main/public/RPS.png"
+      link: "https://akashbhatta.github.io/Rock_Paper_Scissor/"
       
 
     },
